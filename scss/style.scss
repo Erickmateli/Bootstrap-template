@@ -1,0 +1,83 @@
+
+#header_bg{
+  width: 100%;
+  height: 100vh;
+  background-image: url('../img/header_bg.png');
+}
+.nav-item{
+  font-size: 20px;
+}
+.navbar-light .navbar-nav .open > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .nav-link.active{
+  color: rgba(0, 0, 0, 0.9);
+border: 1px solid black;
+border-radius: 5px;
+}
+#intro_section{
+  margin-top: 234px;
+}
+#see_portfolio{
+  border: 1px solid #3292a6;
+  border-radius: 15px;
+}
+#scroll_down{
+  margin-top: 160px;
+}
+#best_design{
+  width: 100%;
+  height: 350px;
+  padding-left: 80px;
+  padding-top: 90px;
+  padding-right: 100px;
+  background-image: url('../img/best_design.png');
+}
+#best_code{
+  width: 100%;
+  height: 350px;
+  padding-left: 80px;
+  padding-top: 90px;
+  padding-right: 100px;
+  color: #fff;
+  background-image: url('../img/best_code.png');
+}
+#cool_designs{
+  border: 1px solid #3292a6;
+  border-radius: 15px;
+}
+#full_header{
+  width: 100%;
+  height: 100vh;
+  float: left;
+}
+// #what_we_do{
+//   width: 100%;
+//   height: 100vh;
+//   float: left;
+// }
+#web_design_service{
+  width: 100%;
+}
+.web_design_icon{
+  width: 30%;
+  float: left;
+}
+.web_design_content{
+  width: 70%;
+  float: right;
+}
+#ask_prices_btn{
+  margin: auto;
+}
+#about_section{
+  width: 100%;
+  height: auto;
+  margin-top: -1px;
+  padding-bottom: 30px;
+  // padding-left: 80px;
+  // padding-top: 90px;
+  // padding-right: 100px;
+  color: #fff;
+  background-image: url('../img/aboutus.png');
+}
+.clear{
+  clear: both;
+}
